@@ -1,5 +1,5 @@
 # Stenon
-**`digital craftsman (DevOps-Jr)`**
+**`Digital Craftsman (DevOps-Jr)`**
 
 Hola!, soy un estudiante de programación que busca crear sus propios productos digitales.
 Actualmente, me preparo para certificarme en AWS y fabrico mi propio portafolios, el mismo que verán adelante.
